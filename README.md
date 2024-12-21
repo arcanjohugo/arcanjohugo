@@ -1,5 +1,5 @@
 
-<h1>Hi There! 👋</h1>
+<h2>Hi There! 👋</h2>
 
 <!--
 **harcanjo/harcanjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 badges ref: [https://github.com/inttter/md-badges](https://github.com/inttter/md-badges)
 -->
-# I'm Hugo Arcanjo**
+# I'm Hugo Arcanjo
 **Full-Stack Developer**
 
 I'm passionate with building web and mobile applications using Java, Spring Boot, C#, .Net, PHP, Laravel, Go, Node.js, React.JS, Angular, React Native. 
